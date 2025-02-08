@@ -3,20 +3,20 @@
         right: 0;
     }
 }
-@media (max-width:1400px){
+@media (max-width:1440px){
     .hero1__title {
         font-size: 50px;
         margin-bottom: 10px;
     }
     .hero1 {
-        padding-top: 236px;
-        padding-bottom: 100px;
+        /* padding-top: 236px;
+        padding-bottom: 100px; */
     }
     .heroright1 {
-        right: 10%;
+        /* right: 10%;
         width: 47%;
         top: auto;
-        transform: translateY(-50%);
+        transform: translateY(-50%); */
     }
     .box3 {
         top: 242px;
@@ -242,10 +242,10 @@
         width: 47%;
         top: 25%;
     }
-    .hero1 {
+    /* .hero1 {
         padding-top: 436px;
         padding-bottom: 100px;
-    }
+    } */
 }
 @media (max-width:576px){
     .hero1__subtitle {
