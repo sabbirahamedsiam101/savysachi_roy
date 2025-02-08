@@ -39,6 +39,12 @@
     .counter__title {
         font-size: 22px;
     }
+    .about__img2 {
+        display: none;
+    }
+    .about__main {
+        margin-left: 0;
+    }
 }
 @media (max-width:1200px){
     .header__menu-1 li {

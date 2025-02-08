@@ -552,7 +552,7 @@ a:hover {
   position: relative;
 }
 .about__main {
-  padding-left: 100px;
+  margin-left: 100px;
 }
 .about__right {
   padding-left: 20px;
