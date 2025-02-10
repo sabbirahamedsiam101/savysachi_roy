@@ -1238,6 +1238,7 @@ a:hover {
   background-color: transparent;
   color: var(--black-2);
   box-shadow: none;
+  border: 1px solid var(--secondary);
 }
 .btn-2:hover:hover {
   background-color: var(--secondary);
